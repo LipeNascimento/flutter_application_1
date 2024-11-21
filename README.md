@@ -32,6 +32,6 @@ https://1drv.ms/f/c/d689dfc038c2834e/Ek5w_GZpR55MquUtHfm-hEABGKtIZljGhQAdch-gQVd
 
 ### 📋 Integrantes
 
-Weslley Bruno Almeida Santos – 32328864
-Felipe Reis Nascimento – 323210811
-Charles Miller De Souza Nascimento – 32326802
+* Weslley Bruno Almeida Santos – 32328864
+* Felipe Reis Nascimento – 323210811
+* Charles Miller De Souza Nascimento – 32326802
