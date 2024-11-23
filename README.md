@@ -26,9 +26,13 @@ maneira eficiente e intuitiva.
 * Implementação das funcionalidades de login e navegação entre telas.
 * Debugging e execução do projeto no emulador ou dispositivo físico.
 
-### 📋 Link do APK / Apresentação
+### 📋 Link do APK / PDF da Apresentação
 
 https://1drv.ms/f/c/d689dfc038c2834e/Ek5w_GZpR55MquUtHfm-hEABGKtIZljGhQAdch-gQVdoEw?e=NjdfB8
+
+### 📋 Link do Video
+
+https://youtu.be/ZvrDyK-XgRA
 
 ### 📋 Integrantes
 
