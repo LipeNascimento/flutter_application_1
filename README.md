@@ -1,7 +1,7 @@
 # Atividade de Fixação - Flutter
 
 
-Este projeto A3 é fixação da disciplina Usabilidade, Web, Mobile e Games, ministrada pelo professor Alexandre Montanha. 
+Este projeto A3 é fixação da disciplina Usabilidade, Web, Mobile e Games, ministrada pelos professores Stella e Alexandre Montanha. 
 
 
 ### 📋 Objetivo
