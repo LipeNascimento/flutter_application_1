@@ -14,7 +14,7 @@ maneira eficiente e intuitiva.
 * Tela de Login
 * Tela de Registro
 * Tela Principal (Lista de Tarefas)
-* Tela de Adicionar/Editar Tarefa
+* Tela de Adicionar/Editar/Excluir Tarefa
 * Tela de Configurações
 
 
